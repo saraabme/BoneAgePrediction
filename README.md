@@ -15,5 +15,5 @@ The notebook uses the pre-trained model Xception to predict ages. The ImageDataG
   </ul>
   
 ## Results
-<img src ='hand_xray.png'></img>
+<img src ='Results.png'></img>
   
